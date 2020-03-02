@@ -44,13 +44,23 @@ public class VerificationHelper {
 
     public String getText(WebElement element){
 
+        if(element == null){
+            log.info("WebElement is null.");
+            return null;
+        }
+
         if(isDisplayed(element)){
 
             String textOfAnElement = element.getText();
+            if(textOfAnElement !=null){
+
             log.info("Obtained the text of an element: "+ element.getText());
-            return textOfAnElement;
+            return textOfAnElement;}
+                else {
+                    log.error("Not able to red the text");
+                    return null;
+                }
         }else{
-            log.error("Not able to red the text");
             return null;
         }
 
@@ -58,6 +68,6 @@ public class VerificationHelper {
 
 
 
-
+    // isselected, isEnabled,
 
 }

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Regression Suite">
+    <listeners>
+        <listener class-name="helper.listener.RetryListenerHelper">
+        </listener>
+    </listeners>
+
+    <test name="FirstTest">
+        <classes>
+            <class name="testBase.A">
+            </class>
+        </classes>
+    </test>
+
+    <test name="SecondTest">
+        <classes>
+            <class name="testBase.B">
+            </class>
+        </classes>
+    </test>
+
+    <test name="ThirdTest">
+        <classes>
+            <class name="testBase.C">
+            </class>
+        </classes>
+    </test>
+
+</suite>

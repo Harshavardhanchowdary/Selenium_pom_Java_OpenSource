@@ -2,10 +2,66 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a019c08-aabc-4c84-8611-61e459fed96e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/helper/javascript/JavaScriptHelpr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/helper/assertion/VerificationHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/helper/listener/Retry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/helper/listener/RetryListenerHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testBase/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testBase/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testBase/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/testSuite/regressionSuite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/helper/frame/FrameHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/helper/javascript/JavaScriptHelpr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/helper/listener/Retry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/helper/listener/RetryListenerHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/helper/logger/LoggerHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/helper/resource/ResourceHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/helper/wait/WaitHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/helper/windows/WindowHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/testBase/A.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/testBase/B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/testBase/C.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Regression Suite/FirstTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Regression Suite/FirstTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Regression Suite/SecondTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Regression Suite/SecondTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Regression Suite/ThirdTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Regression Suite/ThirdTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Regression Suite/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-testBase.A.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-testBase.B.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-testBase.C.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Regression Suite/FirstTest.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Regression Suite/SecondTest.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Regression Suite/ThirdTest.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Regression Suite/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Regression Suite/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Regression Suite/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Regression Suite/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Regression Suite/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Regression Suite/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Regression Suite/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Regression Suite/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Regression Suite/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Regression Suite/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/helper/logger/LoggerHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/helper/resource/ResourceHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation_log.html" beforeDir="false" afterPath="$PROJECT_DIR$/automation_log.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/automation_log.out" beforeDir="false" afterPath="$PROJECT_DIR$/automation_log.out" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,11 +73,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="WaitHelper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/helper/wait/WaitHelper.java">
+      <file leaf-file-name="ResourceHelper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/helper/resource/ResourceHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2235">
-              <caret line="162" column="45" selection-start-line="162" selection-start-column="45" selection-end-line="162" selection-end-column="45" />
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Retry.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/helper/listener/Retry.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="121">
+              <caret line="15" column="24" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -29,46 +94,81 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WindowHelper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/helper/windows/WindowHelper.java">
+      <file leaf-file-name="VerificationHelper.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/helper/assertion/VerificationHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="531">
-              <caret line="87" selection-start-line="87" selection-end-line="87" />
+            <state relative-caret-position="266">
+              <caret line="40" column="9" lean-forward="true" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JavaScriptHelpr.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/helper/javascript/JavaScriptHelpr.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="152" lean-forward="true" selection-start-line="152" selection-end-line="152" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="docComment;method#executeJavaScript#0;class#JavaScriptHelpr#0" />
-                <element signature="docComment;method#executeJavaScript#1;class#JavaScriptHelpr#0" />
-                <element signature="docComment;method#scrollToElement#0;class#JavaScriptHelpr#0" />
-                <element signature="docComment;method#scrollToElementAndClick#0;class#JavaScriptHelpr#0" />
-                <element signature="docComment;method#scrollIntoView#0;class#JavaScriptHelpr#0" />
-                <element signature="docComment;method#scrollIntoViewAndClick#0;class#JavaScriptHelpr#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FrameHelper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/helper/frame/FrameHelper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="35" column="59" selection-start-line="35" selection-start-column="59" selection-end-line="35" selection-end-column="59" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#337#338#0" expanded="true" />
                 <element signature="e#373#374#0" expanded="true" />
+                <element signature="e#392#393#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="automation_log.out" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/automation_log.out">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-796" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RetryListenerHelper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/helper/listener/RetryListenerHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="regressionSuite.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/resources/testSuite/regressionSuite.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="A.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/testBase/A.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="e#115#116#0" expanded="true" />
+                <element signature="e#138#139#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="B.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/testBase/B.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="C.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/testBase/C.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IAnnotationTransformer.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.1.0/testng-7.1.0.jar!/org/testng/IAnnotationTransformer.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -97,6 +197,13 @@
         <option value="$PROJECT_DIR$/src/main/java/helper/window/WindowHelper.java" />
         <option value="$PROJECT_DIR$/src/main/java/helper/windows/WindowHelper.java" />
         <option value="$PROJECT_DIR$/src/main/java/helper/javascript/JavaScriptHelpr.java" />
+        <option value="$PROJECT_DIR$/src/main/java/helper/listener/RetryListenerHelper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testBase/C.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testBase/B.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testBase/A.java" />
+        <option value="$PROJECT_DIR$/src/resources/testSuite/regressionSuite.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/helper/listener/Retry.java" />
+        <option value="$PROJECT_DIR$/src/main/java/helper/assertion/VerificationHelper.java" />
       </list>
     </option>
   </component>
@@ -123,6 +230,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -160,6 +270,23 @@
               <item name="Selenium_pom_Java_OpenSource" type="b2602c69:ProjectViewProjectNode" />
               <item name="Selenium_pom_Java_OpenSource" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="helper" type="462c0819:PsiDirectoryNode" />
+              <item name="assertion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Selenium_pom_Java_OpenSource" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium_pom_Java_OpenSource" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testBase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Selenium_pom_Java_OpenSource" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Selenium_pom_Java_OpenSource" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -167,15 +294,12 @@
               <item name="Selenium_pom_Java_OpenSource" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="configfile" type="462c0819:PsiDirectoryNode" />
+              <item name="testSuite" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -184,6 +308,11 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="testBase" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -197,7 +326,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ResourceHelper">
+  <component name="RunManager" selected="TestNG.A">
     <configuration name="LoggerHelper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="helper.logger.LoggerHelper" />
       <module name="Selenium_pom_Java_OpenSource" />
@@ -239,6 +368,58 @@
       </option>
       <patterns />
     </configuration>
+    <configuration name="A" type="TestNG" factoryName="TestNG" nameIsGenerated="true">
+      <module name="Selenium_pom_Java_OpenSource" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testBase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="testBase" />
+      <option name="MAIN_CLASS_NAME" value="testBase.A" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="/Users/kavurichowdary/Documents/GitHub/Selenium_pom_Java_OpenSource/src/resources/testSuite/regressionSuite.xml" type="TestNG" factoryName="TestNG" nameIsGenerated="true">
+      <module name="Selenium_pom_Java_OpenSource" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/resources/testSuite/regressionSuite.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -262,6 +443,8 @@
       <listeners />
     </configuration>
     <list>
+      <item itemvalue="TestNG./Users/kavurichowdary/Documents/GitHub/Selenium_pom_Java_OpenSource/src/resources/testSuite/regressionSuite.xml" />
+      <item itemvalue="TestNG.A" />
       <item itemvalue="Application.LoggerHelper" />
       <item itemvalue="Application.ResourceHelper" />
     </list>
@@ -285,24 +468,57 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="_Users_kavurichowdary_Documents_GitHub_Selenium_pom_Java_OpenSource_src_resources_testSuite_regressionSuite_xml - 2020.03.01 at 16h 53m 52s.xml">
+      <configuration name="/Users/kavurichowdary/Documents/GitHub/Selenium_pom_Java_OpenSource/src/resources/testSuite/regressionSuite.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_kavurichowdary_Documents_GitHub_Selenium_pom_Java_OpenSource_src_resources_testSuite_regressionSuite_xml - 2020.03.01 at 16h 55m 13s.xml">
+      <configuration name="/Users/kavurichowdary/Documents/GitHub/Selenium_pom_Java_OpenSource/src/resources/testSuite/regressionSuite.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_kavurichowdary_Documents_GitHub_Selenium_pom_Java_OpenSource_src_resources_testSuite_regressionSuite_xml - 2020.03.01 at 16h 57m 29s.xml">
+      <configuration name="/Users/kavurichowdary/Documents/GitHub/Selenium_pom_Java_OpenSource/src/resources/testSuite/regressionSuite.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_kavurichowdary_Documents_GitHub_Selenium_pom_Java_OpenSource_src_resources_testSuite_regressionSuite_xml - 2020.03.01 at 16h 58m 14s.xml">
+      <configuration name="/Users/kavurichowdary/Documents/GitHub/Selenium_pom_Java_OpenSource/src/resources/testSuite/regressionSuite.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_kavurichowdary_Documents_GitHub_Selenium_pom_Java_OpenSource_src_resources_testSuite_regressionSuite_xml - 2020.03.01 at 16h 58m 59s.xml">
+      <configuration name="/Users/kavurichowdary/Documents/GitHub/Selenium_pom_Java_OpenSource/src/resources/testSuite/regressionSuite.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_kavurichowdary_Documents_GitHub_Selenium_pom_Java_OpenSource_src_resources_testSuite_regressionSuite_xml - 2020.03.01 at 16h 59m 31s.xml">
+      <configuration name="/Users/kavurichowdary/Documents/GitHub/Selenium_pom_Java_OpenSource/src/resources/testSuite/regressionSuite.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_kavurichowdary_Documents_GitHub_Selenium_pom_Java_OpenSource_src_resources_testSuite_regressionSuite_xml - 2020.03.01 at 17h 01m 41s.xml">
+      <configuration name="/Users/kavurichowdary/Documents/GitHub/Selenium_pom_Java_OpenSource/src/resources/testSuite/regressionSuite.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_kavurichowdary_Documents_GitHub_Selenium_pom_Java_OpenSource_src_resources_testSuite_regressionSuite_xml - 2020.03.01 at 17h 04m 54s.xml">
+      <configuration name="/Users/kavurichowdary/Documents/GitHub/Selenium_pom_Java_OpenSource/src/resources/testSuite/regressionSuite.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_kavurichowdary_Documents_GitHub_Selenium_pom_Java_OpenSource_src_resources_testSuite_regressionSuite_xml - 2020.03.01 at 17h 05m 46s.xml">
+      <configuration name="/Users/kavurichowdary/Documents/GitHub/Selenium_pom_Java_OpenSource/src/resources/testSuite/regressionSuite.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_kavurichowdary_Documents_GitHub_Selenium_pom_Java_OpenSource_src_resources_testSuite_regressionSuite_xml - 2020.03.01 at 17h 06m 30s.xml">
+      <configuration name="/Users/kavurichowdary/Documents/GitHub/Selenium_pom_Java_OpenSource/src/resources/testSuite/regressionSuite.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="638" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.328877" />
       <window_info anchor="right" id="Codota" order="4" weight="0.3291536" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.328877" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.328877" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.328877" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.37774295" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.28840125" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -315,13 +531,142 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.328877" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/helper/wait/WaitHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2235">
+          <caret line="162" column="45" selection-start-line="162" selection-start-column="45" selection-end-line="162" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/helper/windows/WindowHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1305">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/helper/javascript/JavaScriptHelpr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1965">
+          <caret line="152" selection-start-line="152" selection-end-line="152" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;method#executeJavaScript#0;class#JavaScriptHelpr#0" />
+            <element signature="docComment;method#executeJavaScript#1;class#JavaScriptHelpr#0" />
+            <element signature="docComment;method#scrollToElement#0;class#JavaScriptHelpr#0" />
+            <element signature="docComment;method#scrollToElementAndClick#0;class#JavaScriptHelpr#0" />
+            <element signature="docComment;method#scrollIntoView#0;class#JavaScriptHelpr#0" />
+            <element signature="docComment;method#scrollIntoViewAndClick#0;class#JavaScriptHelpr#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/helper/resource/ResourceHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/helper/listener/Retry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/helper/listener/RetryListenerHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.1.0/testng-7.1.0.jar!/org/testng/IAnnotationTransformer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/helper/frame/FrameHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="35" column="59" selection-start-line="35" selection-start-column="59" selection-end-line="35" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/testSuite/regressionSuite.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/helper/wait/WaitHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2400">
+          <caret line="162" column="45" selection-start-line="162" selection-start-column="45" selection-end-line="162" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/helper/windows/WindowHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/helper/frame/FrameHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="59" selection-start-line="35" selection-start-column="59" selection-end-line="35" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/helper/javascript/JavaScriptHelpr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1965">
+          <caret line="152" lean-forward="true" selection-start-line="152" selection-end-line="152" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;method#executeJavaScript#0;class#JavaScriptHelpr#0" />
+            <element signature="docComment;method#executeJavaScript#1;class#JavaScriptHelpr#0" />
+            <element signature="docComment;method#scrollToElement#0;class#JavaScriptHelpr#0" />
+            <element signature="docComment;method#scrollToElementAndClick#0;class#JavaScriptHelpr#0" />
+            <element signature="docComment;method#scrollIntoView#0;class#JavaScriptHelpr#0" />
+            <element signature="docComment;method#scrollIntoViewAndClick#0;class#JavaScriptHelpr#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/helper/wait/WaitHelper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2235">
@@ -429,12 +774,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/automation_log.out">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/automation_log.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/helper/logger/LoggerHelper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -449,13 +788,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" column="44" lean-forward="true" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/helper/resource/ResourceHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -483,7 +815,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/helper/windows/WindowHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="531">
+        <state relative-caret-position="1215">
           <caret line="87" selection-start-line="87" selection-end-line="87" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -493,8 +825,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/helper/javascript/JavaScriptHelpr.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="152" lean-forward="true" selection-start-line="152" selection-end-line="152" />
+        <state relative-caret-position="1965">
+          <caret line="152" selection-start-line="152" selection-end-line="152" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="docComment;method#executeJavaScript#0;class#JavaScriptHelpr#0" />
@@ -503,6 +835,91 @@
             <element signature="docComment;method#scrollToElementAndClick#0;class#JavaScriptHelpr#0" />
             <element signature="docComment;method#scrollIntoView#0;class#JavaScriptHelpr#0" />
             <element signature="docComment;method#scrollIntoViewAndClick#0;class#JavaScriptHelpr#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/helper/resource/ResourceHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.1.0/testng-7.1.0.jar!/org/testng/IAnnotationTransformer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/testBase/B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/testBase/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#115#116#0" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/testSuite/regressionSuite.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/automation_log.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-860" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/testBase/C.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/automation_log.out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-796" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/helper/listener/RetryListenerHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/helper/listener/Retry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/helper/assertion/VerificationHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="40" column="9" lean-forward="true" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
           </folding>
         </state>
       </provider>

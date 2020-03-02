@@ -11,3 +11,111 @@
 2020-02-27 18:02:238 INFO  LoggerHelper : 29 - This is message
 2020-02-27 18:02:312 INFO  LoggerHelper : 29 - This is message
 2020-02-27 18:02:249 INFO  LoggerHelper : 29 - This is message
+2020-03-01 16:03:763 INFO  Retry : 19 - Retrying test logintetswith status FAILURE for the 1 times
+2020-03-01 16:03:776 INFO  Retry : 19 - Retrying test logintetswith status FAILURE for the 2 times
+2020-03-01 16:03:777 INFO  Retry : 19 - Retrying test logintetswith status FAILURE for the 3 times
+2020-03-01 16:03:829 INFO  Retry : 19 - Retrying test logintetsCwith status FAILURE for the 1 times
+2020-03-01 16:03:837 INFO  Retry : 19 - Retrying test logintetsCwith status FAILURE for the 2 times
+2020-03-01 16:03:846 INFO  Retry : 19 - Retrying test logintetsCwith status FAILURE for the 3 times
+2020-03-01 16:03:691 INFO  Retry : 19 - Retrying test logintetswith status FAILURE for the 1 times
+2020-03-01 16:03:700 INFO  Retry : 19 - Retrying test logintetswith status FAILURE for the 2 times
+2020-03-01 16:03:702 INFO  Retry : 19 - Retrying test logintetswith status FAILURE for the 3 times
+2020-03-01 16:03:81 INFO  Retry : 19 - Retrying test logintetsCwith status FAILURE for the 1 times
+2020-03-01 16:03:85 INFO  Retry : 19 - Retrying test logintetsCwith status FAILURE for the 2 times
+2020-03-01 16:03:95 INFO  Retry : 19 - Retrying test logintetsCwith status FAILURE for the 3 times
+2020-03-01 16:03:534 INFO  Retry : 19 - Retrying test logintetswith status FAILURE for the 1 time
+2020-03-01 16:03:548 INFO  Retry : 19 - Retrying test logintetswith status FAILURE for the 2 time
+2020-03-01 16:03:550 INFO  Retry : 19 - Retrying test logintetswith status FAILURE for the 3 time
+2020-03-01 16:03:674 INFO  Retry : 19 - Retrying test logintetsCwith status FAILURE for the 1 time
+2020-03-01 16:03:686 INFO  Retry : 19 - Retrying test logintetsCwith status FAILURE for the 2 time
+2020-03-01 16:03:698 INFO  Retry : 19 - Retrying test logintetsCwith status FAILURE for the 3 time
+2020-03-01 16:03:87 INFO  Retry : 19 - Retrying test nullwith status FAILURE for the 1 time
+2020-03-01 16:03:99 INFO  Retry : 19 - Retrying test nullwith status FAILURE for the 2 time
+2020-03-01 16:03:118 INFO  Retry : 19 - Retrying test nullwith status FAILURE for the 3 time
+2020-03-01 16:03:360 INFO  Retry : 19 - Retrying test nullwith status FAILURE for the 1 time
+2020-03-01 16:03:361 INFO  Retry : 19 - Retrying test nullwith status FAILURE for the 2 time
+2020-03-01 16:03:362 INFO  Retry : 19 - Retrying test nullwith status FAILURE for the 3 time
+2020-03-01 16:03:402 INFO  Retry : 19 - Retrying test logintets with status FAILURE for the 1 time
+2020-03-01 16:03:411 INFO  Retry : 19 - Retrying test logintets with status FAILURE for the 2 time
+2020-03-01 16:03:415 INFO  Retry : 19 - Retrying test logintets with status FAILURE for the 3 time
+2020-03-01 16:03:802 INFO  Retry : 19 - Retrying test logintetsC with status FAILURE for the 1 time
+2020-03-01 16:03:813 INFO  Retry : 19 - Retrying test logintetsC with status FAILURE for the 2 time
+2020-03-01 16:03:831 INFO  Retry : 19 - Retrying test logintetsC with status FAILURE for the 3 time
+2020-03-01 16:03:791 INFO  Retry : 19 - Retrying test -> logintets <- with status FAILURE for the 1 time
+2020-03-01 16:03:800 INFO  Retry : 19 - Retrying test -> logintets <- with status FAILURE for the 2 time
+2020-03-01 16:03:804 INFO  Retry : 19 - Retrying test -> logintets <- with status FAILURE for the 3 time
+2020-03-01 16:03:941 INFO  Retry : 19 - Retrying test -> logintetsC <- with status FAILURE for the 1 time
+2020-03-01 16:03:947 INFO  Retry : 19 - Retrying test -> logintetsC <- with status FAILURE for the 2 time
+2020-03-01 16:03:975 INFO  Retry : 19 - Retrying test -> logintetsC <- with status FAILURE for the 3 time
+2020-03-01 16:03:182 INFO  Retry : 19 - Retrying test -> LOGINTETS <- with status FAILURE for the 1 time
+2020-03-01 16:03:189 INFO  Retry : 19 - Retrying test -> LOGINTETS <- with status FAILURE for the 2 time
+2020-03-01 16:03:192 INFO  Retry : 19 - Retrying test -> LOGINTETS <- with status FAILURE for the 3 time
+2020-03-01 16:03:311 INFO  Retry : 19 - Retrying test -> LOGINTETSC <- with status FAILURE for the 1 time
+2020-03-01 16:03:313 INFO  Retry : 19 - Retrying test -> LOGINTETSC <- with status FAILURE for the 2 time
+2020-03-01 16:03:323 INFO  Retry : 19 - Retrying test -> LOGINTETSC <- with status FAILURE for the 3 time
+2020-03-01 17:03:774 INFO  Retry : 19 - --------------------------------------------------------------------------------------------
+2020-03-01 17:03:783 INFO  Retry : 20 - Retrying test -> logintets <- with status FAILURE for the 1 time
+2020-03-01 17:03:784 INFO  Retry : 21 - --------------------------------------------------------------------------------------------
+2020-03-01 17:03:785 INFO  Retry : 19 - --------------------------------------------------------------------------------------------
+2020-03-01 17:03:789 INFO  Retry : 20 - Retrying test -> logintets <- with status FAILURE for the 2 time
+2020-03-01 17:03:792 INFO  Retry : 21 - --------------------------------------------------------------------------------------------
+2020-03-01 17:03:797 INFO  Retry : 19 - --------------------------------------------------------------------------------------------
+2020-03-01 17:03:798 INFO  Retry : 20 - Retrying test -> logintets <- with status FAILURE for the 3 time
+2020-03-01 17:03:800 INFO  Retry : 21 - --------------------------------------------------------------------------------------------
+2020-03-01 17:03:207 INFO  Retry : 19 - --------------------------------------------------------------------------------------------
+2020-03-01 17:03:208 INFO  Retry : 20 - Retrying test -> logintetsC <- with status FAILURE for the 1 time
+2020-03-01 17:03:209 INFO  Retry : 21 - --------------------------------------------------------------------------------------------
+2020-03-01 17:03:216 INFO  Retry : 19 - --------------------------------------------------------------------------------------------
+2020-03-01 17:03:217 INFO  Retry : 20 - Retrying test -> logintetsC <- with status FAILURE for the 2 time
+2020-03-01 17:03:230 INFO  Retry : 21 - --------------------------------------------------------------------------------------------
+2020-03-01 17:03:258 INFO  Retry : 19 - --------------------------------------------------------------------------------------------
+2020-03-01 17:03:262 INFO  Retry : 20 - Retrying test -> logintetsC <- with status FAILURE for the 3 time
+2020-03-01 17:03:263 INFO  Retry : 21 - --------------------------------------------------------------------------------------------
+2020-03-01 17:03:511 INFO  Retry : 19 - -------------------------------------------------------------------------------------------- /nRetrying test -> logintets <- with status FAILURE for the 1 time 
+--------------------------------------------------------------------------------------------
+2020-03-01 17:03:522 INFO  Retry : 19 - -------------------------------------------------------------------------------------------- /nRetrying test -> logintets <- with status FAILURE for the 2 time 
+--------------------------------------------------------------------------------------------
+2020-03-01 17:03:524 INFO  Retry : 19 - -------------------------------------------------------------------------------------------- /nRetrying test -> logintets <- with status FAILURE for the 3 time 
+--------------------------------------------------------------------------------------------
+2020-03-01 17:03:891 INFO  Retry : 19 - -------------------------------------------------------------------------------------------- /nRetrying test -> logintetsC <- with status FAILURE for the 1 time 
+--------------------------------------------------------------------------------------------
+2020-03-01 17:03:899 INFO  Retry : 19 - -------------------------------------------------------------------------------------------- /nRetrying test -> logintetsC <- with status FAILURE for the 2 time 
+--------------------------------------------------------------------------------------------
+2020-03-01 17:03:901 INFO  Retry : 19 - -------------------------------------------------------------------------------------------- /nRetrying test -> logintetsC <- with status FAILURE for the 3 time 
+--------------------------------------------------------------------------------------------
+2020-03-01 17:03:347 INFO  Retry : 19 - -------------------------------------------------------------------------------------------- 
+Retrying test -> logintets <- with status FAILURE for the 1 time 
+--------------------------------------------------------------------------------------------
+2020-03-01 17:03:355 INFO  Retry : 19 - -------------------------------------------------------------------------------------------- 
+Retrying test -> logintets <- with status FAILURE for the 2 time 
+--------------------------------------------------------------------------------------------
+2020-03-01 17:03:356 INFO  Retry : 19 - -------------------------------------------------------------------------------------------- 
+Retrying test -> logintets <- with status FAILURE for the 3 time 
+--------------------------------------------------------------------------------------------
+2020-03-01 17:03:489 INFO  Retry : 19 - -------------------------------------------------------------------------------------------- 
+Retrying test -> logintetsC <- with status FAILURE for the 1 time 
+--------------------------------------------------------------------------------------------
+2020-03-01 17:03:491 INFO  Retry : 19 - -------------------------------------------------------------------------------------------- 
+Retrying test -> logintetsC <- with status FAILURE for the 2 time 
+--------------------------------------------------------------------------------------------
+2020-03-01 17:03:492 INFO  Retry : 19 - -------------------------------------------------------------------------------------------- 
+Retrying test -> logintetsC <- with status FAILURE for the 3 time 
+--------------------------------------------------------------------------------------------
+2020-03-01 17:03:160 INFO  Retry : 19 - --------------------------------------------------------------------------------------------
+2020-03-01 17:03:172 INFO  Retry : 20 - Retrying test -> logintets <- with status FAILURE for the 1 time
+2020-03-01 17:03:173 INFO  Retry : 21 - --------------------------------------------------------------------------------------------
+2020-03-01 17:03:177 INFO  Retry : 19 - --------------------------------------------------------------------------------------------
+2020-03-01 17:03:180 INFO  Retry : 20 - Retrying test -> logintets <- with status FAILURE for the 2 time
+2020-03-01 17:03:181 INFO  Retry : 21 - --------------------------------------------------------------------------------------------
+2020-03-01 17:03:184 INFO  Retry : 19 - --------------------------------------------------------------------------------------------
+2020-03-01 17:03:185 INFO  Retry : 20 - Retrying test -> logintets <- with status FAILURE for the 3 time
+2020-03-01 17:03:186 INFO  Retry : 21 - --------------------------------------------------------------------------------------------
+2020-03-01 17:03:308 INFO  Retry : 19 - --------------------------------------------------------------------------------------------
+2020-03-01 17:03:308 INFO  Retry : 20 - Retrying test -> logintetsC <- with status FAILURE for the 1 time
+2020-03-01 17:03:309 INFO  Retry : 21 - --------------------------------------------------------------------------------------------
+2020-03-01 17:03:310 INFO  Retry : 19 - --------------------------------------------------------------------------------------------
+2020-03-01 17:03:311 INFO  Retry : 20 - Retrying test -> logintetsC <- with status FAILURE for the 2 time
+2020-03-01 17:03:326 INFO  Retry : 21 - --------------------------------------------------------------------------------------------
+2020-03-01 17:03:327 INFO  Retry : 19 - --------------------------------------------------------------------------------------------
+2020-03-01 17:03:330 INFO  Retry : 20 - Retrying test -> logintetsC <- with status FAILURE for the 3 time
+2020-03-01 17:03:330 INFO  Retry : 21 - --------------------------------------------------------------------------------------------
